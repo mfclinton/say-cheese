@@ -1,0 +1,25 @@
+# This repo is a source-only export; the Unity project is not included.
+# These entries exist so a local checkout stays clean.
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.booproj
+
+# IDE
+.vs/
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
